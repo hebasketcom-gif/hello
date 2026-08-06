@@ -1,6 +1,0 @@
-{
-  "name": "STUDIO11 Luxury Hair Salon",
-  "description": "World-class luxury women's hair salon website for STUDIO11 featuring premium hair transformations, hair coloring, hairstyles, luxury hair spa, bridal beauty, and price list.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
